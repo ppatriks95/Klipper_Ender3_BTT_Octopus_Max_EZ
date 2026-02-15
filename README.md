@@ -33,6 +33,12 @@ Always verify:
 Incorrect configuration can cause hardware damage.
 
 ---
+## Klipper Binary
+
+I actually loaded later the Binary file for Klipper from the Developer of Beam Klipper, because my own build wasn´t communicating via Beam Klipper and Klipper itselft. You can get it from [https://github.com/utkabobr/klipper](https://github.com/utkabobr/klipper/releases/tag/prebuilt-v0.12.0)
+
+Specifially I´ve choosed https://github.com/utkabobr/klipper/releases/download/prebuilt-v0.12.0/bigtreetech-octopus-max-ez.bin or you can get it here (files/bigtreetech-octopus-max-ez.bin)
+----
 
 ## 📚 Sources / References
 
