@@ -15,6 +15,10 @@ My configuration is tailored to my personal setup, so **you will likely need to 
 - **Camera / Klipper Host:** Samsung Galaxy A13 (OTG Adapter)
 - **Klipper Environment:** Beam Klipper
 
+## Pinout how I´ve configured everything
+![My Ender 3 + Octopus Max EZ Setup](images/Ender3_BTT_Octopus_Max_EZ_pinout.JPG
+)
+
 ---
 
 ## 📌 Important Notes
